@@ -1,5 +1,3 @@
-# 快速开始
-___
 ## 🏷️ 登陆
 [海鼎系统网址]( http://oa.calxon-assets.com/)
 >推荐使用[`谷歌浏览器`](https://www.google.com/intl/zh-CN/chrome/) 
