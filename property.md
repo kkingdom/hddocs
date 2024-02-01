@@ -53,4 +53,4 @@ ___
 > 
 > ![img_23.png](img_23.png)
 > 
-> **账单生效后的收款，详见 [收款单](http://localhost:3000/#/accounts?id=%f0%9f%8f%b7%ef%b8%8f-%e6%94%b6%e6%ac%be)**
+> **账单生效后的收款，详见 [收款单](/accounts?id=收款)**
