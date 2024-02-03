@@ -202,11 +202,11 @@ ___
 > 
 > **1. 查询要变更的合同，点击打开，查看合同内容**
 > 
-> ![img.png](img.png)
+> ![img.png](_media/leasing_img.png)
 > 
 > **2. 点击合同左上角 `操作`，选择要更变的单据类型**
 > 
-> ![img_1.png](img_1.png)
+> ![img_1.png](_media/leasing_img_1.png)
 >
 ```合同变更说明
    合同补充条款申请：可编辑合同各项字段，用于补充协议签署
@@ -220,14 +220,14 @@ ___
 ```  
 > **3. 以合同补充条款申请举例**
 > 
-> ![img_2.png](img_2.png)
+> ![img_2.png](_media/leasing_img_2.png)
 > 
-> ![img_3.png](img_3.png)
+> ![img_3.png](_media/leasing_img_3.png)
 > 
 > **4. 修改完成之后，选择`保存`**
 > 
 > **5. 复制 `变更单号` ，打开[OA系统](http://oa.calxon-group.com/), 新建[JKCHD002_合同变更审批流程](http://oa.calxon-group.com/spa/workflow/static4form/index.html?_rdm=1706690485151#/main/workflow/req?iscreate=1&workflowid=86&isagent=0&beagenter=0&f_weaver_belongto_userid=&f_weaver_belongto_usertype=0&menuIds=1,12&menuPathIds=1,12&_key=xdxuqr), 输入`变更单号`，填写`呈批内容` 并上传`附件`，点击 `提交`**
 >
-> ![img_4.png](img_4.png)
+> ![img_4.png](_media/leasing_img_4.png)
 > 
 > **6. 待OA流转结束，运营内勤检查变更单据无误，生效**

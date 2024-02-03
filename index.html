@@ -8,6 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="src/darkthemes.css">
+  <!-- 侧边栏样式
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />-->
   </head>
 <body>
   <div id="app">加载中，请稍等...</div>
@@ -21,10 +23,13 @@
         //自动跳转到页面顶部
         auto2top: true,
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'},
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
+      //sidebarDisplaylevel: 1,
+      subMaxLevel: 2,
+      //maxLevel: 4,
         coverpage: true,
         name: '海鼎操作指引',
-        subMaxLevel: 2,
         search: {
         placeholder: '搜索试试',
         noData: '无结果!',
@@ -39,6 +44,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="src/add_back_to_top.js"></script>
   <script src="src/darkthemes.js"></script>
+  <!-- plugins
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>-->
+
 <!-- 回到顶部功能 -->
   <script>
     addBackToTop({
